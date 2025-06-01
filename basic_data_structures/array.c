@@ -1,3 +1,6 @@
+// Este ejercicio fue desarrollado con la ayuda de ChatGPT
+// Objetivo: demostrar que los arrays en C usan memoria continua utilizando punteros
+
 #include <stdio.h>
 #include <inttypes.h>  // Para uintptr_t y PRIuPTR
 
