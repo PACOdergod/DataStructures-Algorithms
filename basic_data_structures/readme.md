@@ -8,7 +8,7 @@ Cada una tiene ventajas y limitaciones, por lo que se utilizan en distintos caso
 
 ## Array
 
-Un array es una colección ordenada de datos, normalmente del mismo tipo.  
+Un array es una colección ordenada de datos del mismo tipo.  
 A nivel de memoria, el array **reserva un bloque contiguo** para todos sus elementos.  
 Por ejemplo, si creamos un array de 5 elementos de tipo `int64`, el sistema reservará 5 espacios consecutivos en memoria para almacenar esos valores.
 
